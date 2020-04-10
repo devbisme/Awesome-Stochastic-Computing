@@ -21,17 +21,17 @@
 
 ## Theory
 
-- [Stochastic Computing](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/../Stochastic%20computing%20-%20Gaines%201967.pdf)
-- [Stochastic Computing Systems](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/../Stochastic%20Computing%20Systems%20-%20Gaines%201969.pdf)
-- [Stochastic Computing Elements and Systems](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/../Stochastic%20computing%20elements%20and%20systems.pdf)
+- [Stochastic Computing](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/Stochastic%20computing%20-%20Gaines%201967.pdf)
+- [Stochastic Computing Systems](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/Stochastic%20Computing%20Systems%20-%20Gaines%201969.pdf)
+- [Stochastic Computing Elements and Systems](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/Stochastic%20computing%20elements%20and%20systems.pdf)
 - [Survey of Stochastic Computing](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/../Survey%20of%20Stochastic%20Computing%20-%20Alaghi%202012.pdf)
 - [Stochastic Computing Techniques and Applications](https://b-ok.cc/book/4982183/816655)
-- [On the Role of Sequential Circuits in Stochastic Computing](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/../On%20the%20Role%20of%20Sequential%20Circuits%20in%20Stochastic%20Computing.pdf)
+- [On the Role of Sequential Circuits in Stochastic Computing](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/On%20the%20Role%20of%20Sequential%20Circuits%20in%20Stochastic%20Computing.pdf)
 
 ## Hardware Implementations
 
-- [STONN: A Stochastic Neural Network Chip](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/../STONN%20a%20Stochastic%20Neural%20Network%20Chip.pdf)
-- [VLSI Implementation of TInMANN](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/../vlsi-implementation-of-tinmann.pdf)
+- [STONN: A Stochastic Neural Network Chip](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/STONN%20a%20Stochastic%20Neural%20Network%20Chip.pdf)
+- [VLSI Implementation of TInMANN](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/vlsi-implementation-of-tinmann.pdf)
 
 ## Repositories
 
