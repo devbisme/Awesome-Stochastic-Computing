@@ -10,7 +10,7 @@
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Awesome Stochastic Computing !](#awesome-stochastic-computing)
+- [Awesome Stochastic Computing !](#awesome-stochastic-computing-)
   - [Table of Contents](#table-of-contents)
   - [Theory](#theory)
   - [Hardware Implementations](#hardware-implementations)
@@ -21,17 +21,17 @@
 
 ## Theory
 
-- [Stochastic Computing](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/Stochastic%20computing%20-%20Gaines%201967.pdf)
-- [Stochastic Computing Systems](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/Stochastic%20Computing%20Systems%20-%20Gaines%201969.pdf)
-- [Stochastic Computing Elements and Systems](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/Stochastic%20computing%20elements%20and%20systems.pdf)
-- [Survey of Stochastic Computing](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/Survey%20of%20Stochastic%20Computing%20-%20Alaghi%202012.pdf)
+- [Stochastic Computing](https://github.com/devbisme/Awesome-Stochastic-Computing/blob/master/docs/Stochastic%20computing%20-%20Gaines%201967.pdf)
+- [Stochastic Computing Systems](https://github.com/devbisme/Awesome-Stochastic-Computing/blob/master/docs/Stochastic%20Computing%20Systems%20-%20Gaines%201969.pdf)
+- [Stochastic Computing Elements and Systems](https://github.com/devbisme/Awesome-Stochastic-Computing/blob/master/docs/Stochastic%20computing%20elements%20and%20systems.pdf)
+- [Survey of Stochastic Computing](https://github.com/devbisme/Awesome-Stochastic-Computing/blob/master/docs/Survey%20of%20Stochastic%20Computing%20-%20Alaghi%202012.pdf)
 - [Stochastic Computing Techniques and Applications](https://b-ok.cc/book/4982183/816655)
-- [On the Role of Sequential Circuits in Stochastic Computing](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/On%20the%20Role%20of%20Sequential%20Circuits%20in%20Stochastic%20Computing.pdf)
+- [On the Role of Sequential Circuits in Stochastic Computing](https://github.com/devbisme/Awesome-Stochastic-Computing/blob/master/docs/On%20the%20Role%20of%20Sequential%20Circuits%20in%20Stochastic%20Computing.pdf)
 
 ## Hardware Implementations
 
-- [STONN: A Stochastic Neural Network Chip](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/STONN%20a%20Stochastic%20Neural%20Network%20Chip.pdf)
-- [VLSI Implementation of TInMANN](https://github.com/xesscorp/Awesome-Stochastic-Computing/blob/master/docs/vlsi-implementation-of-tinmann.pdf)
+- [STONN: A Stochastic Neural Network Chip](https://github.com/devbisme/Awesome-Stochastic-Computing/blob/master/docs/STONN%20a%20Stochastic%20Neural%20Network%20Chip.pdf)
+- [VLSI Implementation of TInMANN](https://github.com/devbisme/Awesome-Stochastic-Computing/blob/master/docs/vlsi-implementation-of-tinmann.pdf)
 
 ## Repositories
 
@@ -43,4 +43,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [XESS Corp.](http://xess.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Dave Vandenbout](devb@xess.com) has waived all copyright and related or neighboring rights to this work.
